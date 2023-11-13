@@ -2,7 +2,7 @@
 [![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week11-Databricks/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week11-Databricks/actions/workflows/cicd.yml)
 
 ## Overview
-This project follow [the basic ETL pipeline tutorial](https://docs.databricks.com/en/getting-started/etl-quick-start.html#) from Databricks.
+This project follows [the basic ETL pipeline tutorial](https://docs.databricks.com/en/getting-started/etl-quick-start.html#) from Databricks.
 
 This README outlines the Databricks notebook designed for extracting, transforming, and loading (ETL) data using PySpark. The notebook demonstrates the use of Auto Loader for ingesting JSON data into a Delta table and further processing CSV data.
 
